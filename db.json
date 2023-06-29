@@ -1,0 +1,2704 @@
+{
+  "vacancies": [
+    {
+      "id": "a714e3cc-fc6c-4422-8152-a61f898441ba",
+      "employer": "Viva",
+      "title": "Pharmacist",
+      "salary_gross": 5477,
+      "tax_percent": 37,
+      "currency": "CNY",
+      "years_of_experience_required": 10
+    },
+    {
+      "id": "0f50cd2e-7a6f-47e5-8c60-652c63a30ee0",
+      "employer": "Gigashots",
+      "title": "Marketing Manager",
+      "salary_gross": 5755,
+      "tax_percent": 32,
+      "currency": "RUB",
+      "years_of_experience_required": 9
+    },
+    {
+      "id": "073ba25e-328d-4318-a821-d9830a7b2305",
+      "employer": "Fivechat",
+      "title": "Software Engineer IV",
+      "salary_gross": 5313,
+      "tax_percent": 37,
+      "currency": "CNY",
+      "years_of_experience_required": 2
+    },
+    {
+      "id": "a8e0a705-0af3-45a3-9d42-f28c9170fcea",
+      "employer": "Rhyloo",
+      "title": "Graphic Designer",
+      "salary_gross": 4927,
+      "tax_percent": 25,
+      "currency": "EUR",
+      "years_of_experience_required": 4
+    },
+    {
+      "id": "308033b3-fd5c-4b96-bc8a-22852cbfc6d3",
+      "employer": "Brainsphere",
+      "title": "Senior Developer",
+      "salary_gross": 4907,
+      "tax_percent": 39,
+      "currency": "TND",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "9c33ec4f-5fbf-4d37-b64f-767392a78533",
+      "employer": "Yodo",
+      "title": "Help Desk Operator",
+      "salary_gross": 5151,
+      "tax_percent": 25,
+      "currency": "IDR",
+      "years_of_experience_required": 5
+    },
+    {
+      "id": "77ac6c6b-4f90-4db7-ae92-b5030ef96b4c",
+      "employer": "Dynava",
+      "title": "Legal Assistant",
+      "salary_gross": 6678,
+      "tax_percent": 29,
+      "currency": "GTQ",
+      "years_of_experience_required": 2
+    },
+    {
+      "id": "131ff91c-198c-48fc-8231-d6aba3adac2f",
+      "employer": "Twitterbridge",
+      "title": "Structural Engineer",
+      "salary_gross": 5290,
+      "tax_percent": 26,
+      "currency": "SEK",
+      "years_of_experience_required": 9
+    },
+    {
+      "id": "89aacd20-fb70-4495-b985-fea7b8878495",
+      "employer": "Podcat",
+      "title": "Internal Auditor",
+      "salary_gross": 5789,
+      "tax_percent": 32,
+      "currency": "IDR",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "6830fa55-bf71-45fa-9d5b-9601266388b4",
+      "employer": "Gabspot",
+      "title": "Physical Therapy Assistant",
+      "salary_gross": 6876,
+      "tax_percent": 32,
+      "currency": "CNY",
+      "years_of_experience_required": 12
+    },
+    {
+      "id": "6cacdf88-dcf7-425d-a548-dc8fbc11b67e",
+      "employer": "Topicware",
+      "title": "Occupational Therapist",
+      "salary_gross": 5869,
+      "tax_percent": 26,
+      "currency": "EUR",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "651f1fae-f62d-4ed2-bd4a-607450ef7860",
+      "employer": "Meejo",
+      "title": "Teacher",
+      "salary_gross": 5874,
+      "tax_percent": 38,
+      "currency": "ZWL",
+      "years_of_experience_required": 5
+    },
+    {
+      "id": "bef48ae9-a77c-424a-9e5e-72bead63f010",
+      "employer": "Skimia",
+      "title": "Senior Financial Analyst",
+      "salary_gross": 5267,
+      "tax_percent": 32,
+      "currency": "CNY",
+      "years_of_experience_required": 9
+    },
+    {
+      "id": "bd1818a4-68f0-4a2a-83ee-eb0db9b2f269",
+      "employer": "Shufflebeat",
+      "title": "VP Quality Control",
+      "salary_gross": 5493,
+      "tax_percent": 40,
+      "currency": "PLN",
+      "years_of_experience_required": 9
+    },
+    {
+      "id": "453cc713-99b3-4139-a0c5-031e8f3f668f",
+      "employer": "Gabtype",
+      "title": "Teacher",
+      "salary_gross": 6986,
+      "tax_percent": 39,
+      "currency": "SEK",
+      "years_of_experience_required": 10
+    },
+    {
+      "id": "20f2fec0-ada2-4eac-900a-89656c6b8b82",
+      "employer": "Oyonder",
+      "title": "Health Coach I",
+      "salary_gross": 6601,
+      "tax_percent": 39,
+      "currency": "COP",
+      "years_of_experience_required": 6
+    },
+    {
+      "id": "5c78d307-fb3e-4767-98eb-24625b43fabf",
+      "employer": "Linktype",
+      "title": "Software Consultant",
+      "salary_gross": 6127,
+      "tax_percent": 33,
+      "currency": "CNY",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "59f678b3-3387-494c-a0e5-eab43b8d8e21",
+      "employer": "Devshare",
+      "title": "Project Manager",
+      "salary_gross": 6863,
+      "tax_percent": 29,
+      "currency": "CNY",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "b78a49de-36fb-49fd-b1d5-39b4d0f8160a",
+      "employer": "Jetwire",
+      "title": "Design Engineer",
+      "salary_gross": 5469,
+      "tax_percent": 31,
+      "currency": "IDR",
+      "years_of_experience_required": 9
+    },
+    {
+      "id": "307a5a4b-7401-43c0-b861-ff1882bb8cad",
+      "employer": "Youfeed",
+      "title": "Technical Writer",
+      "salary_gross": 6343,
+      "tax_percent": 35,
+      "currency": "PHP",
+      "years_of_experience_required": 2
+    },
+    {
+      "id": "f94daba9-4390-4b4a-b69a-99d64e73ba27",
+      "employer": "Twinte",
+      "title": "Executive Secretary",
+      "salary_gross": 5743,
+      "tax_percent": 33,
+      "currency": "RUB",
+      "years_of_experience_required": 6
+    },
+    {
+      "id": "0f1562f0-bb5b-42ff-90e3-970a85d0dc7e",
+      "employer": "Lajo",
+      "title": "Biostatistician II",
+      "salary_gross": 4665,
+      "tax_percent": 27,
+      "currency": "PHP",
+      "years_of_experience_required": 3
+    },
+    {
+      "id": "c35b9fbd-b101-4233-8024-57e9e2affc91",
+      "employer": "Vinte",
+      "title": "Internal Auditor",
+      "salary_gross": 6518,
+      "tax_percent": 33,
+      "currency": "CNY",
+      "years_of_experience_required": 12
+    },
+    {
+      "id": "3d64c65c-8ec6-4228-b427-228149d63335",
+      "employer": "Mynte",
+      "title": "Programmer III",
+      "salary_gross": 6940,
+      "tax_percent": 26,
+      "currency": "NOK",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "8a688fda-c2f3-45e7-b321-342d025a5439",
+      "employer": "Jaxnation",
+      "title": "Office Assistant IV",
+      "salary_gross": 5977,
+      "tax_percent": 39,
+      "currency": "EGP",
+      "years_of_experience_required": 2
+    },
+    {
+      "id": "d1440bbd-fc43-4775-a02d-34fe85239eb5",
+      "employer": "Devpoint",
+      "title": "Physical Therapy Assistant",
+      "salary_gross": 6169,
+      "tax_percent": 28,
+      "currency": "EUR",
+      "years_of_experience_required": 5
+    },
+    {
+      "id": "705e346c-b74d-42fe-83df-60302743958e",
+      "employer": "Kwinu",
+      "title": "Associate Professor",
+      "salary_gross": 5239,
+      "tax_percent": 35,
+      "currency": "PEN",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "adf6cbd8-8292-4099-bb30-77b93c14328f",
+      "employer": "Camimbo",
+      "title": "Media Manager II",
+      "salary_gross": 6815,
+      "tax_percent": 40,
+      "currency": "CZK",
+      "years_of_experience_required": 9
+    },
+    {
+      "id": "e4d044d8-619d-4a3a-8ccb-2cd34ce8ac90",
+      "employer": "Thoughtstorm",
+      "title": "Developer II",
+      "salary_gross": 6436,
+      "tax_percent": 27,
+      "currency": "CNY",
+      "years_of_experience_required": 9
+    },
+    {
+      "id": "0ee741cd-c925-4e5d-bdf0-6ab4e7794aa3",
+      "employer": "Plajo",
+      "title": "Graphic Designer",
+      "salary_gross": 5228,
+      "tax_percent": 37,
+      "currency": "RUB",
+      "years_of_experience_required": 4
+    },
+    {
+      "id": "df7366ff-ad72-4e6d-b6c5-3c812a239510",
+      "employer": "Mybuzz",
+      "title": "Analog Circuit Design manager",
+      "salary_gross": 6623,
+      "tax_percent": 30,
+      "currency": "CNY",
+      "years_of_experience_required": 10
+    },
+    {
+      "id": "e6b03dec-b94c-40fa-a141-34b962db8706",
+      "employer": "Wordware",
+      "title": "Actuary",
+      "salary_gross": 5977,
+      "tax_percent": 39,
+      "currency": "EUR",
+      "years_of_experience_required": 10
+    },
+    {
+      "id": "fc5a6a49-dde9-41ec-9c34-cd7409bc69a6",
+      "employer": "Livetube",
+      "title": "Sales Representative",
+      "salary_gross": 5617,
+      "tax_percent": 35,
+      "currency": "THB",
+      "years_of_experience_required": 3
+    },
+    {
+      "id": "85982cac-0dba-450d-a77f-99364be77491",
+      "employer": "Oyoba",
+      "title": "Assistant Manager",
+      "salary_gross": 5032,
+      "tax_percent": 35,
+      "currency": "EUR",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "80007df9-a99c-4b8a-b749-325403ccf557",
+      "employer": "Oodoo",
+      "title": "Assistant Professor",
+      "salary_gross": 6207,
+      "tax_percent": 36,
+      "currency": "CNY",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "58c6a724-05dd-4a3c-b3c7-a88f77814590",
+      "employer": "Quinu",
+      "title": "Financial Analyst",
+      "salary_gross": 4733,
+      "tax_percent": 28,
+      "currency": "AMD",
+      "years_of_experience_required": 9
+    },
+    {
+      "id": "30fb62fe-a3a3-48ff-bc97-1995f9889dab",
+      "employer": "Skipstorm",
+      "title": "Computer Systems Analyst II",
+      "salary_gross": 5098,
+      "tax_percent": 27,
+      "currency": "PHP",
+      "years_of_experience_required": 12
+    },
+    {
+      "id": "7f68f28d-ab53-4fee-8d8b-73f45aabb35a",
+      "employer": "Teklist",
+      "title": "Nurse",
+      "salary_gross": 6515,
+      "tax_percent": 35,
+      "currency": "NGN",
+      "years_of_experience_required": 3
+    },
+    {
+      "id": "c254b761-bd84-4007-a24b-7de00de2fb59",
+      "employer": "Meevee",
+      "title": "Account Representative I",
+      "salary_gross": 6625,
+      "tax_percent": 26,
+      "currency": "BRL",
+      "years_of_experience_required": 10
+    },
+    {
+      "id": "e18ae58f-0998-413b-9aa1-24a532261007",
+      "employer": "Vimbo",
+      "title": "Nuclear Power Engineer",
+      "salary_gross": 6972,
+      "tax_percent": 28,
+      "currency": "EGP",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "e087db3f-c8b1-436b-93b6-64a98cf0f2a9",
+      "employer": "Flipstorm",
+      "title": "Programmer Analyst III",
+      "salary_gross": 6482,
+      "tax_percent": 30,
+      "currency": "THB",
+      "years_of_experience_required": 2
+    },
+    {
+      "id": "1a2dca3b-c7a6-4d1d-9c35-d40db0015fdc",
+      "employer": "Centizu",
+      "title": "Editor",
+      "salary_gross": 6523,
+      "tax_percent": 26,
+      "currency": "UAH",
+      "years_of_experience_required": 9
+    },
+    {
+      "id": "5b36f806-bf2f-4217-8a6f-24e20b8626c8",
+      "employer": "Feedspan",
+      "title": "Senior Cost Accountant",
+      "salary_gross": 5702,
+      "tax_percent": 34,
+      "currency": "IDR",
+      "years_of_experience_required": 10
+    },
+    {
+      "id": "6558503b-b1c5-47a3-9456-8b739e7601a7",
+      "employer": "Tekfly",
+      "title": "Social Worker",
+      "salary_gross": 5226,
+      "tax_percent": 30,
+      "currency": "EUR",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "9dc86d4e-4f2e-4f01-ba40-96223da7d78a",
+      "employer": "Gabvine",
+      "title": "Occupational Therapist",
+      "salary_gross": 6679,
+      "tax_percent": 34,
+      "currency": "RUB",
+      "years_of_experience_required": 2
+    },
+    {
+      "id": "cad7a1e9-a636-4630-8c0b-865e7367f816",
+      "employer": "Jabbercube",
+      "title": "Health Coach III",
+      "salary_gross": 6146,
+      "tax_percent": 31,
+      "currency": "VND",
+      "years_of_experience_required": 10
+    },
+    {
+      "id": "5bba1f4c-3b4c-4b2e-9291-02c6f39efa32",
+      "employer": "Linkbridge",
+      "title": "VP Sales",
+      "salary_gross": 4997,
+      "tax_percent": 30,
+      "currency": "IDR",
+      "years_of_experience_required": 2
+    },
+    {
+      "id": "205ce589-478c-4b6d-a4d4-a42040c2b046",
+      "employer": "Topicstorm",
+      "title": "Office Assistant II",
+      "salary_gross": 6214,
+      "tax_percent": 35,
+      "currency": "CNY",
+      "years_of_experience_required": 6
+    },
+    {
+      "id": "96dc0290-5484-401a-9d72-91ba12a44856",
+      "employer": "Vinte",
+      "title": "Programmer IV",
+      "salary_gross": 6188,
+      "tax_percent": 29,
+      "currency": "CZK",
+      "years_of_experience_required": 3
+    },
+    {
+      "id": "160fb1f5-4938-4271-a9e3-b40f0c8be838",
+      "employer": "Feedfish",
+      "title": "Programmer Analyst II",
+      "salary_gross": 5024,
+      "tax_percent": 27,
+      "currency": "BRL",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "0a8fd0a5-028f-476e-800e-a4203ca5edad",
+      "employer": "Eamia",
+      "title": "Occupational Therapist",
+      "salary_gross": 5931,
+      "tax_percent": 28,
+      "currency": "IQD",
+      "years_of_experience_required": 4
+    },
+    {
+      "id": "21528862-423f-4580-a62f-4dfea1f1ab69",
+      "employer": "Jatri",
+      "title": "Operator",
+      "salary_gross": 6430,
+      "tax_percent": 40,
+      "currency": "EUR",
+      "years_of_experience_required": 12
+    },
+    {
+      "id": "bf1a0adc-fe92-45b2-b7cd-e395555ef9d3",
+      "employer": "Twitternation",
+      "title": "Recruiting Manager",
+      "salary_gross": 6676,
+      "tax_percent": 29,
+      "currency": "IDR",
+      "years_of_experience_required": 9
+    },
+    {
+      "id": "df7f1408-0998-49a4-9f11-6d8f4dbeef5b",
+      "employer": "Divavu",
+      "title": "Accountant I",
+      "salary_gross": 5574,
+      "tax_percent": 32,
+      "currency": "EUR",
+      "years_of_experience_required": 12
+    },
+    {
+      "id": "26a3dc3a-03bd-4adf-8916-3078389831fd",
+      "employer": "Skiba",
+      "title": "Product Engineer",
+      "salary_gross": 6815,
+      "tax_percent": 38,
+      "currency": "PHP",
+      "years_of_experience_required": 3
+    },
+    {
+      "id": "033e987c-e1b0-448c-a4ea-f34fbbed3d6c",
+      "employer": "Latz",
+      "title": "Actuary",
+      "salary_gross": 4524,
+      "tax_percent": 36,
+      "currency": "EUR",
+      "years_of_experience_required": 5
+    },
+    {
+      "id": "3bf6f7c4-fc66-4c96-b919-9f4eed3b65ca",
+      "employer": "Zoombox",
+      "title": "Senior Quality Engineer",
+      "salary_gross": 5960,
+      "tax_percent": 33,
+      "currency": "EGP",
+      "years_of_experience_required": 9
+    },
+    {
+      "id": "173d2f36-7270-4fe3-a4d0-82a2f9d4144a",
+      "employer": "Yotz",
+      "title": "Office Assistant IV",
+      "salary_gross": 4969,
+      "tax_percent": 29,
+      "currency": "JOD",
+      "years_of_experience_required": 12
+    },
+    {
+      "id": "a304205a-ab45-414b-96a8-1bed521916ad",
+      "employer": "Demimbu",
+      "title": "Software Engineer IV",
+      "salary_gross": 5102,
+      "tax_percent": 33,
+      "currency": "RUB",
+      "years_of_experience_required": 9
+    },
+    {
+      "id": "2d8875ba-96ea-49f9-875a-13fb5619a3ca",
+      "employer": "Flipopia",
+      "title": "Actuary",
+      "salary_gross": 5943,
+      "tax_percent": 34,
+      "currency": "SEK",
+      "years_of_experience_required": 3
+    },
+    {
+      "id": "6b242144-0b0b-4679-ae91-921027dd6725",
+      "employer": "Oyonder",
+      "title": "Structural Engineer",
+      "salary_gross": 5789,
+      "tax_percent": 27,
+      "currency": "BRL",
+      "years_of_experience_required": 3
+    },
+    {
+      "id": "0ca3bd80-eb16-46e7-8b79-3b63d3f5d47d",
+      "employer": "Mymm",
+      "title": "Clinical Specialist",
+      "salary_gross": 5512,
+      "tax_percent": 37,
+      "currency": "RUB",
+      "years_of_experience_required": 5
+    },
+    {
+      "id": "2480ba34-d5e4-4f6f-aabe-568a1945dbac",
+      "employer": "Centizu",
+      "title": "Marketing Assistant",
+      "salary_gross": 5198,
+      "tax_percent": 26,
+      "currency": "PHP",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "17b94b51-aea1-4124-b85a-859e16a865e4",
+      "employer": "Bluejam",
+      "title": "Director of Sales",
+      "salary_gross": 4856,
+      "tax_percent": 31,
+      "currency": "VEF",
+      "years_of_experience_required": 10
+    },
+    {
+      "id": "b632515d-5e79-474f-8add-1a1032ef364b",
+      "employer": "Browsetype",
+      "title": "Dental Hygienist",
+      "salary_gross": 6529,
+      "tax_percent": 40,
+      "currency": "IDR",
+      "years_of_experience_required": 6
+    },
+    {
+      "id": "41d29e9a-8e09-4f63-bbb2-b72728f5648b",
+      "employer": "Youspan",
+      "title": "Paralegal",
+      "salary_gross": 6204,
+      "tax_percent": 40,
+      "currency": "BRL",
+      "years_of_experience_required": 4
+    },
+    {
+      "id": "00e4dee8-dfbe-4c95-8d7b-9c8093cb68ee",
+      "employer": "Cogilith",
+      "title": "Senior Editor",
+      "salary_gross": 6740,
+      "tax_percent": 38,
+      "currency": "EUR",
+      "years_of_experience_required": 5
+    },
+    {
+      "id": "73b9b069-6f7e-48c4-88f8-b96ec6b869da",
+      "employer": "Linktype",
+      "title": "Account Executive",
+      "salary_gross": 6370,
+      "tax_percent": 27,
+      "currency": "PLN",
+      "years_of_experience_required": 4
+    },
+    {
+      "id": "a3c435b0-c91c-4863-82d7-241634622951",
+      "employer": "Wikizz",
+      "title": "Software Test Engineer II",
+      "salary_gross": 5587,
+      "tax_percent": 32,
+      "currency": "AUD",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "1de07430-998a-4f89-b3a8-1127371e9032",
+      "employer": "Jaxbean",
+      "title": "Cost Accountant",
+      "salary_gross": 5319,
+      "tax_percent": 36,
+      "currency": "CNY",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "268ed022-0b87-461c-892b-4d7f187dc6c1",
+      "employer": "Thoughtmix",
+      "title": "Accountant IV",
+      "salary_gross": 4924,
+      "tax_percent": 25,
+      "currency": "PLN",
+      "years_of_experience_required": 12
+    },
+    {
+      "id": "b743c28b-a40b-4c7d-913f-f1e3c69b9b73",
+      "employer": "Wikibox",
+      "title": "Recruiter",
+      "salary_gross": 5529,
+      "tax_percent": 39,
+      "currency": "UAH",
+      "years_of_experience_required": 12
+    },
+    {
+      "id": "3f436adf-d4c3-4cdf-a5a4-5d3884f7224f",
+      "employer": "Avaveo",
+      "title": "Executive Secretary",
+      "salary_gross": 6319,
+      "tax_percent": 28,
+      "currency": "IDR",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "0e581e81-fd2a-492c-a3bc-de09f094c781",
+      "employer": "Fivebridge",
+      "title": "Data Coordinator",
+      "salary_gross": 5499,
+      "tax_percent": 28,
+      "currency": "PHP",
+      "years_of_experience_required": 4
+    },
+    {
+      "id": "1f296e04-d8ef-4a9d-a26d-7f54d5822c09",
+      "employer": "Edgeclub",
+      "title": "Analyst Programmer",
+      "salary_gross": 5214,
+      "tax_percent": 35,
+      "currency": "BRL",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "e3ab6dd7-4c20-4bb6-9be2-dfa78f705f0f",
+      "employer": "Tagcat",
+      "title": "Web Designer IV",
+      "salary_gross": 6461,
+      "tax_percent": 32,
+      "currency": "CNY",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "b79b7366-f3f2-47fc-9d85-469057052456",
+      "employer": "Brainverse",
+      "title": "Quality Engineer",
+      "salary_gross": 6498,
+      "tax_percent": 40,
+      "currency": "CNY",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "2ebdcffe-6488-4a88-b3af-27d280885c2b",
+      "employer": "Jetwire",
+      "title": "Office Assistant II",
+      "salary_gross": 4670,
+      "tax_percent": 40,
+      "currency": "BOB",
+      "years_of_experience_required": 5
+    },
+    {
+      "id": "f45690bd-e6d6-4651-8ae7-b780657650f9",
+      "employer": "Gigabox",
+      "title": "Chief Design Engineer",
+      "salary_gross": 5475,
+      "tax_percent": 31,
+      "currency": "CNY",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "035befa7-0662-4461-a472-64dc5ef28629",
+      "employer": "Jaxnation",
+      "title": "Physical Therapy Assistant",
+      "salary_gross": 5045,
+      "tax_percent": 25,
+      "currency": "BRL",
+      "years_of_experience_required": 5
+    },
+    {
+      "id": "1077a349-4eeb-4b76-bca4-a04c8b6c6d91",
+      "employer": "Topicstorm",
+      "title": "Help Desk Technician",
+      "salary_gross": 6511,
+      "tax_percent": 36,
+      "currency": "UAH",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "7c62b3a6-d185-4f76-a8b9-bd030b964723",
+      "employer": "Riffwire",
+      "title": "Computer Systems Analyst I",
+      "salary_gross": 4510,
+      "tax_percent": 36,
+      "currency": "CNY",
+      "years_of_experience_required": 4
+    },
+    {
+      "id": "a865099d-c7a4-4303-82a4-046b43cd51a7",
+      "employer": "Twinte",
+      "title": "Electrical Engineer",
+      "salary_gross": 5234,
+      "tax_percent": 40,
+      "currency": "PEN",
+      "years_of_experience_required": 10
+    },
+    {
+      "id": "5c587949-6bc8-4231-a8c8-44f1cd076500",
+      "employer": "Shuffledrive",
+      "title": "Automation Specialist I",
+      "salary_gross": 6298,
+      "tax_percent": 31,
+      "currency": "PLN",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "c17d26fb-d73c-4d69-997a-e051a917abbc",
+      "employer": "Quaxo",
+      "title": "Legal Assistant",
+      "salary_gross": 6410,
+      "tax_percent": 33,
+      "currency": "RUB",
+      "years_of_experience_required": 6
+    },
+    {
+      "id": "58e1fad4-dc67-4b56-bba7-8156bd6bfb0e",
+      "employer": "Rhycero",
+      "title": "Registered Nurse",
+      "salary_gross": 5893,
+      "tax_percent": 26,
+      "currency": "EUR",
+      "years_of_experience_required": 9
+    },
+    {
+      "id": "8c032a6c-d240-40ce-b126-441495baa6df",
+      "employer": "Npath",
+      "title": "Internal Auditor",
+      "salary_gross": 6202,
+      "tax_percent": 30,
+      "currency": "PEN",
+      "years_of_experience_required": 6
+    },
+    {
+      "id": "ff8f716a-d35d-40f9-aa93-925d5a6156e0",
+      "employer": "Gigashots",
+      "title": "Community Outreach Specialist",
+      "salary_gross": 6483,
+      "tax_percent": 38,
+      "currency": "EUR",
+      "years_of_experience_required": 12
+    },
+    {
+      "id": "f6b42a48-1754-4723-9202-d7539e113b00",
+      "employer": "Dabvine",
+      "title": "Geological Engineer",
+      "salary_gross": 5926,
+      "tax_percent": 38,
+      "currency": "CZK",
+      "years_of_experience_required": 5
+    },
+    {
+      "id": "876dd95b-bd56-4f23-9180-c31290c087bd",
+      "employer": "Tagtune",
+      "title": "Paralegal",
+      "salary_gross": 4564,
+      "tax_percent": 40,
+      "currency": "XOF",
+      "years_of_experience_required": 3
+    },
+    {
+      "id": "90e929cf-2e09-4b2c-8f1c-abffe0d37e91",
+      "employer": "Photolist",
+      "title": "Database Administrator III",
+      "salary_gross": 5800,
+      "tax_percent": 31,
+      "currency": "PHP",
+      "years_of_experience_required": 4
+    },
+    {
+      "id": "68de9338-813e-480b-97ad-7661bb1562f1",
+      "employer": "Myworks",
+      "title": "Marketing Assistant",
+      "salary_gross": 4754,
+      "tax_percent": 30,
+      "currency": "HRK",
+      "years_of_experience_required": 3
+    },
+    {
+      "id": "7be51b13-a52d-439d-a83b-518fd90a282b",
+      "employer": "Trunyx",
+      "title": "Programmer IV",
+      "salary_gross": 4557,
+      "tax_percent": 31,
+      "currency": "IDR",
+      "years_of_experience_required": 12
+    },
+    {
+      "id": "a848f719-31d4-4cfe-8c90-0fa69d3ff3d4",
+      "employer": "Eamia",
+      "title": "Recruiter",
+      "salary_gross": 5547,
+      "tax_percent": 30,
+      "currency": "RUB",
+      "years_of_experience_required": 10
+    },
+    {
+      "id": "d0efafd8-fcdc-4bbe-907c-c5a7d5b5f620",
+      "employer": "Tazzy",
+      "title": "Director of Sales",
+      "salary_gross": 5985,
+      "tax_percent": 27,
+      "currency": "DOP",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "b349ac61-89dd-45c2-9202-da87f125b5e6",
+      "employer": "Buzzster",
+      "title": "Marketing Manager",
+      "salary_gross": 5513,
+      "tax_percent": 39,
+      "currency": "EUR",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "58232eb4-394a-46ed-833e-a31a0734fbf5",
+      "employer": "Yakijo",
+      "title": "Geologist IV",
+      "salary_gross": 5765,
+      "tax_percent": 25,
+      "currency": "IDR",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "91b6dbee-9f6f-462a-bc79-1351209311d6",
+      "employer": "Tazz",
+      "title": "Software Test Engineer IV",
+      "salary_gross": 6670,
+      "tax_percent": 38,
+      "currency": "USD",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "22d6339d-e34c-46ad-b975-4a9a08182a7a",
+      "employer": "Yotz",
+      "title": "Account Executive",
+      "salary_gross": 5127,
+      "tax_percent": 39,
+      "currency": "MAD",
+      "years_of_experience_required": 6
+    },
+    {
+      "id": "ca89c1eb-99f9-4418-8603-dc630a02dcfa",
+      "employer": "Gigabox",
+      "title": "Legal Assistant",
+      "salary_gross": 5934,
+      "tax_percent": 40,
+      "currency": "RUB",
+      "years_of_experience_required": 5
+    },
+    {
+      "id": "270dc3a7-e7a4-47dd-968a-c2db6f7695e2",
+      "employer": "Jayo",
+      "title": "Marketing Manager",
+      "salary_gross": 5707,
+      "tax_percent": 29,
+      "currency": "XAF",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "83faa0cc-d5b9-43b3-a6e0-dbb50ae807f5",
+      "employer": "Quinu",
+      "title": "Research Assistant III",
+      "salary_gross": 5956,
+      "tax_percent": 37,
+      "currency": "IDR",
+      "years_of_experience_required": 5
+    },
+    {
+      "id": "2b55014d-112d-44eb-afff-9fff58f03828",
+      "employer": "Riffpath",
+      "title": "Environmental Tech",
+      "salary_gross": 5736,
+      "tax_percent": 36,
+      "currency": "RUB",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "2127dd2e-0b4a-462a-9a11-45ac91fa9e59",
+      "employer": "Trudeo",
+      "title": "Accounting Assistant I",
+      "salary_gross": 5086,
+      "tax_percent": 36,
+      "currency": "CNY",
+      "years_of_experience_required": 5
+    },
+    {
+      "id": "d497bc1a-abb7-4217-bead-23374c72bf90",
+      "employer": "Jaxworks",
+      "title": "Engineer I",
+      "salary_gross": 6608,
+      "tax_percent": 33,
+      "currency": "CNY",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "70cac005-df1e-455b-b5f4-fc45c1249281",
+      "employer": "Voomm",
+      "title": "Technical Writer",
+      "salary_gross": 6841,
+      "tax_percent": 37,
+      "currency": "BRL",
+      "years_of_experience_required": 5
+    },
+    {
+      "id": "46a7b93e-569c-485d-a6ff-59b67634b9dc",
+      "employer": "Tavu",
+      "title": "Desktop Support Technician",
+      "salary_gross": 5426,
+      "tax_percent": 39,
+      "currency": "CAD",
+      "years_of_experience_required": 2
+    },
+    {
+      "id": "b21dcfab-d1f9-4a40-85ba-b8a0e887a5e0",
+      "employer": "Devpulse",
+      "title": "Internal Auditor",
+      "salary_gross": 6148,
+      "tax_percent": 32,
+      "currency": "RUB",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "9e354e1f-10cc-4473-8a7d-e5e68adb9801",
+      "employer": "Realfire",
+      "title": "Computer Systems Analyst II",
+      "salary_gross": 5522,
+      "tax_percent": 28,
+      "currency": "BRL",
+      "years_of_experience_required": 4
+    },
+    {
+      "id": "371699c4-7d36-419d-bff7-1453f3c9f859",
+      "employer": "Twitterlist",
+      "title": "Data Coordinator",
+      "salary_gross": 6096,
+      "tax_percent": 34,
+      "currency": "EUR",
+      "years_of_experience_required": 9
+    },
+    {
+      "id": "652489a5-6d1f-4e02-9f9a-feb815c50c74",
+      "employer": "Feedfish",
+      "title": "Systems Administrator III",
+      "salary_gross": 4832,
+      "tax_percent": 25,
+      "currency": "EUR",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "5f488ef7-b6ad-4b01-93f0-7319b735a1ee",
+      "employer": "Blogtags",
+      "title": "Administrative Assistant I",
+      "salary_gross": 4504,
+      "tax_percent": 25,
+      "currency": "IDR",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "dc14a2dd-6bc2-4af9-8e25-5ae73874407d",
+      "employer": "Aimbo",
+      "title": "Product Engineer",
+      "salary_gross": 5199,
+      "tax_percent": 38,
+      "currency": "CNY",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "8f3ba8fc-fa75-4cab-92a6-8821fce2b21d",
+      "employer": "Eabox",
+      "title": "Accountant IV",
+      "salary_gross": 6095,
+      "tax_percent": 30,
+      "currency": "BYR",
+      "years_of_experience_required": 2
+    },
+    {
+      "id": "16a0839b-4d09-4fec-8da0-267acc48d80c",
+      "employer": "Midel",
+      "title": "Human Resources Manager",
+      "salary_gross": 5656,
+      "tax_percent": 39,
+      "currency": "GMD",
+      "years_of_experience_required": 2
+    },
+    {
+      "id": "5cf5bf56-8a1c-48c9-aaf4-7f64333d087a",
+      "employer": "Leenti",
+      "title": "Software Test Engineer II",
+      "salary_gross": 6796,
+      "tax_percent": 31,
+      "currency": "SEK",
+      "years_of_experience_required": 9
+    },
+    {
+      "id": "905a3f3e-6fd5-4484-a37e-89edfbf8ad46",
+      "employer": "Vimbo",
+      "title": "Computer Systems Analyst II",
+      "salary_gross": 5118,
+      "tax_percent": 25,
+      "currency": "RUB",
+      "years_of_experience_required": 5
+    },
+    {
+      "id": "2e1ec43f-603b-4bf3-88ad-b02943bd4124",
+      "employer": "LiveZ",
+      "title": "Social Worker",
+      "salary_gross": 4989,
+      "tax_percent": 40,
+      "currency": "SYP",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "a03449ae-d228-479d-84cf-214777afbdac",
+      "employer": "Devpoint",
+      "title": "Teacher",
+      "salary_gross": 5718,
+      "tax_percent": 38,
+      "currency": "CNY",
+      "years_of_experience_required": 3
+    },
+    {
+      "id": "89ab539f-27f2-4816-a708-3063d20f0748",
+      "employer": "Camido",
+      "title": "Community Outreach Specialist",
+      "salary_gross": 5916,
+      "tax_percent": 27,
+      "currency": "COP",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "fbbc069a-cc2b-4a3a-88d0-0ea5ddc041a6",
+      "employer": "Minyx",
+      "title": "VP Marketing",
+      "salary_gross": 6923,
+      "tax_percent": 38,
+      "currency": "CNY",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "120b831d-56cd-4484-a2c8-8ab9035e4bc9",
+      "employer": "Tagcat",
+      "title": "Research Assistant I",
+      "salary_gross": 5451,
+      "tax_percent": 32,
+      "currency": "IDR",
+      "years_of_experience_required": 9
+    },
+    {
+      "id": "8e8c533f-00a7-4541-b175-8d39010c898e",
+      "employer": "Devpulse",
+      "title": "Operator",
+      "salary_gross": 5029,
+      "tax_percent": 29,
+      "currency": "CNY",
+      "years_of_experience_required": 3
+    },
+    {
+      "id": "403700ef-8746-4f6f-a820-5a742c82d3ca",
+      "employer": "Livetube",
+      "title": "Environmental Tech",
+      "salary_gross": 6948,
+      "tax_percent": 29,
+      "currency": "CNY",
+      "years_of_experience_required": 2
+    },
+    {
+      "id": "734ef5a5-98e9-4d5f-abec-b717493b476e",
+      "employer": "Linktype",
+      "title": "GIS Technical Architect",
+      "salary_gross": 5462,
+      "tax_percent": 39,
+      "currency": "PHP",
+      "years_of_experience_required": 5
+    },
+    {
+      "id": "2fbc910e-5c47-4705-82f2-7b45e473a360",
+      "employer": "Fivechat",
+      "title": "Data Coordinator",
+      "salary_gross": 5420,
+      "tax_percent": 35,
+      "currency": "USD",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "50938ca7-58e2-4c7c-819f-377c47ad3a11",
+      "employer": "Kazu",
+      "title": "Account Coordinator",
+      "salary_gross": 6410,
+      "tax_percent": 29,
+      "currency": "SEK",
+      "years_of_experience_required": 4
+    },
+    {
+      "id": "45f45b39-eb8e-48f1-a8bd-431376b3f122",
+      "employer": "Skinte",
+      "title": "Senior Developer",
+      "salary_gross": 6377,
+      "tax_percent": 36,
+      "currency": "COP",
+      "years_of_experience_required": 10
+    },
+    {
+      "id": "a4611616-dbf6-498f-9edd-c78588b5097d",
+      "employer": "Roomm",
+      "title": "Developer III",
+      "salary_gross": 5242,
+      "tax_percent": 39,
+      "currency": "CNY",
+      "years_of_experience_required": 5
+    },
+    {
+      "id": "2df4331e-6c7a-4567-8461-c992475a69d3",
+      "employer": "Rhynyx",
+      "title": "Financial Analyst",
+      "salary_gross": 5934,
+      "tax_percent": 36,
+      "currency": "CAD",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "bcdd6009-8a9b-4f2f-ae42-c7a4c8cd7957",
+      "employer": "Fadeo",
+      "title": "Research Nurse",
+      "salary_gross": 4658,
+      "tax_percent": 38,
+      "currency": "ISK",
+      "years_of_experience_required": 5
+    },
+    {
+      "id": "e86d7fe3-5171-4094-90a7-e5aeed725779",
+      "employer": "Omba",
+      "title": "Web Developer II",
+      "salary_gross": 6149,
+      "tax_percent": 25,
+      "currency": "CAD",
+      "years_of_experience_required": 2
+    },
+    {
+      "id": "a42f942b-edbb-4542-8359-debe7027547c",
+      "employer": "Demizz",
+      "title": "Accounting Assistant II",
+      "salary_gross": 4944,
+      "tax_percent": 38,
+      "currency": "MAD",
+      "years_of_experience_required": 4
+    },
+    {
+      "id": "3e1ee50e-d936-4816-a1f0-422dfc89c725",
+      "employer": "Eadel",
+      "title": "Senior Editor",
+      "salary_gross": 5607,
+      "tax_percent": 35,
+      "currency": "XOF",
+      "years_of_experience_required": 5
+    },
+    {
+      "id": "78579032-fb7a-4163-b2f7-3a4bca6b9aa7",
+      "employer": "Wordware",
+      "title": "Pharmacist",
+      "salary_gross": 5056,
+      "tax_percent": 33,
+      "currency": "CNY",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "eca10b48-f44c-450f-87b4-e1e06206acd3",
+      "employer": "Riffwire",
+      "title": "Health Coach I",
+      "salary_gross": 5746,
+      "tax_percent": 37,
+      "currency": "BRL",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "cdebbba2-3d3b-4101-9d1b-1a8369fad28a",
+      "employer": "Skivee",
+      "title": "Assistant Media Planner",
+      "salary_gross": 4573,
+      "tax_percent": 26,
+      "currency": "IDR",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "9b685e54-e0d8-4750-8aae-8d3fe1d4ca4c",
+      "employer": "Centizu",
+      "title": "Occupational Therapist",
+      "salary_gross": 6749,
+      "tax_percent": 31,
+      "currency": "THB",
+      "years_of_experience_required": 12
+    },
+    {
+      "id": "93ed593a-a5cf-4d28-b7f1-e90751f550de",
+      "employer": "Tagopia",
+      "title": "Computer Systems Analyst III",
+      "salary_gross": 5821,
+      "tax_percent": 32,
+      "currency": "IDR",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "082534ca-ca33-4cc2-a03b-9eab9bea12db",
+      "employer": "Linkbridge",
+      "title": "Account Representative I",
+      "salary_gross": 4757,
+      "tax_percent": 38,
+      "currency": "RUB",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "ab71a6ea-f0d7-49ea-9993-9f7bea8d27c2",
+      "employer": "Flashspan",
+      "title": "Desktop Support Technician",
+      "salary_gross": 5441,
+      "tax_percent": 28,
+      "currency": "XAF",
+      "years_of_experience_required": 5
+    },
+    {
+      "id": "c81c8f48-1608-4133-a03f-163fc8912dff",
+      "employer": "Jamia",
+      "title": "VP Marketing",
+      "salary_gross": 5178,
+      "tax_percent": 37,
+      "currency": "IRR",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "cc903278-2790-4e1b-a257-92586689a158",
+      "employer": "Quamba",
+      "title": "Physical Therapy Assistant",
+      "salary_gross": 4910,
+      "tax_percent": 36,
+      "currency": "SAR",
+      "years_of_experience_required": 10
+    },
+    {
+      "id": "08d67827-89f0-46b6-b4e3-babe52ae3e1c",
+      "employer": "Jayo",
+      "title": "Research Associate",
+      "salary_gross": 4981,
+      "tax_percent": 40,
+      "currency": "KGS",
+      "years_of_experience_required": 9
+    },
+    {
+      "id": "62c358fc-df26-4f53-8846-6bb71929a35c",
+      "employer": "Topicware",
+      "title": "Legal Assistant",
+      "salary_gross": 6382,
+      "tax_percent": 37,
+      "currency": "BRL",
+      "years_of_experience_required": 10
+    },
+    {
+      "id": "84cb5dbb-6b64-4406-87b7-3bcaa6a33226",
+      "employer": "Browsetype",
+      "title": "Nuclear Power Engineer",
+      "salary_gross": 6498,
+      "tax_percent": 32,
+      "currency": "ZAR",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "45499974-ca00-4759-9d22-8b8aa9d66fe5",
+      "employer": "Mudo",
+      "title": "Recruiting Manager",
+      "salary_gross": 6497,
+      "tax_percent": 27,
+      "currency": "NGN",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "46c02f5e-1c7a-42ae-82f9-1ba4052a830f",
+      "employer": "Jaloo",
+      "title": "VP Marketing",
+      "salary_gross": 5787,
+      "tax_percent": 34,
+      "currency": "PLN",
+      "years_of_experience_required": 2
+    },
+    {
+      "id": "2c2eda1f-cda5-4a48-a71c-3f96e2c85957",
+      "employer": "Mycat",
+      "title": "Account Executive",
+      "salary_gross": 4519,
+      "tax_percent": 38,
+      "currency": "CNY",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "0ee37981-0bf8-47b3-bb7a-d0b88ac7b09b",
+      "employer": "Trilith",
+      "title": "Administrative Officer",
+      "salary_gross": 4984,
+      "tax_percent": 37,
+      "currency": "BRL",
+      "years_of_experience_required": 12
+    },
+    {
+      "id": "9291e18d-804b-4399-942c-0cee6dbebb04",
+      "employer": "Riffpath",
+      "title": "Senior Quality Engineer",
+      "salary_gross": 6878,
+      "tax_percent": 28,
+      "currency": "PHP",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "c6806db8-e825-4032-8fc3-4188a7fd6df7",
+      "employer": "Shufflebeat",
+      "title": "VP Quality Control",
+      "salary_gross": 5636,
+      "tax_percent": 37,
+      "currency": "CZK",
+      "years_of_experience_required": 3
+    },
+    {
+      "id": "0ada3ef4-ede0-404f-b139-a105e5e334e5",
+      "employer": "Roodel",
+      "title": "Quality Control Specialist",
+      "salary_gross": 5917,
+      "tax_percent": 36,
+      "currency": "IDR",
+      "years_of_experience_required": 12
+    },
+    {
+      "id": "e9d0fa88-8d3e-4398-b093-e53cfe6f5c1e",
+      "employer": "Avavee",
+      "title": "Senior Developer",
+      "salary_gross": 5422,
+      "tax_percent": 26,
+      "currency": "CNY",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "84c4b801-ab54-4f28-8991-a3fd12fd17b7",
+      "employer": "Feedfish",
+      "title": "Quality Control Specialist",
+      "salary_gross": 6905,
+      "tax_percent": 40,
+      "currency": "EUR",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "8ccca623-989a-48be-a1cb-1444bd57f669",
+      "employer": "Twimm",
+      "title": "Computer Systems Analyst III",
+      "salary_gross": 6628,
+      "tax_percent": 28,
+      "currency": "USD",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "a1b319ae-14a7-42b7-b09b-67da9c481300",
+      "employer": "Pixoboo",
+      "title": "VP Quality Control",
+      "salary_gross": 6668,
+      "tax_percent": 34,
+      "currency": "RUB",
+      "years_of_experience_required": 12
+    },
+    {
+      "id": "acfb9b3c-1f8e-40fc-90f0-4967a4090939",
+      "employer": "Skyba",
+      "title": "Safety Technician III",
+      "salary_gross": 5953,
+      "tax_percent": 32,
+      "currency": "EUR",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "6f69641b-fb20-4781-afd5-0cdb68b4b1a0",
+      "employer": "Aimbo",
+      "title": "Staff Accountant IV",
+      "salary_gross": 6051,
+      "tax_percent": 34,
+      "currency": "EUR",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "e341c8b3-93a4-4f73-b196-6057acb42af8",
+      "employer": "Yodel",
+      "title": "Geological Engineer",
+      "salary_gross": 5622,
+      "tax_percent": 38,
+      "currency": "RUB",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "457e82c2-ce34-45d7-81c2-bf270894d6ac",
+      "employer": "Skimia",
+      "title": "Speech Pathologist",
+      "salary_gross": 5502,
+      "tax_percent": 37,
+      "currency": "THB",
+      "years_of_experience_required": 5
+    },
+    {
+      "id": "25d0bb7f-ba34-4955-8200-58345c906d84",
+      "employer": "Skiptube",
+      "title": "Accounting Assistant IV",
+      "salary_gross": 6366,
+      "tax_percent": 32,
+      "currency": "PLN",
+      "years_of_experience_required": 3
+    },
+    {
+      "id": "b04c3a10-da93-47cb-8c4d-c748cc486c1c",
+      "employer": "Twitterworks",
+      "title": "Environmental Tech",
+      "salary_gross": 5501,
+      "tax_percent": 31,
+      "currency": "CZK",
+      "years_of_experience_required": 12
+    },
+    {
+      "id": "272f564d-4564-4349-b9e1-e555416feafb",
+      "employer": "Oyonder",
+      "title": "Paralegal",
+      "salary_gross": 6870,
+      "tax_percent": 28,
+      "currency": "CNY",
+      "years_of_experience_required": 5
+    },
+    {
+      "id": "4d0ab04f-a481-437f-8253-5ab9541e6a2c",
+      "employer": "Dabtype",
+      "title": "Accountant I",
+      "salary_gross": 4791,
+      "tax_percent": 32,
+      "currency": "RSD",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "72c8cd8e-f6f5-4961-9331-aad7f2bfd437",
+      "employer": "Yakijo",
+      "title": "Operator",
+      "salary_gross": 4707,
+      "tax_percent": 35,
+      "currency": "UAH",
+      "years_of_experience_required": 4
+    },
+    {
+      "id": "81fc01c9-34a1-49cb-a0df-98d4c3896ae1",
+      "employer": "Eidel",
+      "title": "Software Consultant",
+      "salary_gross": 6867,
+      "tax_percent": 38,
+      "currency": "CZK",
+      "years_of_experience_required": 6
+    },
+    {
+      "id": "50f24c8b-2d8c-4664-8649-edeed809b64a",
+      "employer": "Dabtype",
+      "title": "Budget/Accounting Analyst IV",
+      "salary_gross": 5924,
+      "tax_percent": 28,
+      "currency": "BRL",
+      "years_of_experience_required": 2
+    },
+    {
+      "id": "114ec9d5-dcde-4952-b04c-be20f6c10715",
+      "employer": "Voolith",
+      "title": "Senior Developer",
+      "salary_gross": 6258,
+      "tax_percent": 33,
+      "currency": "VND",
+      "years_of_experience_required": 4
+    },
+    {
+      "id": "5d8b7b85-f2e6-4845-a12b-3b22b1b4e9c5",
+      "employer": "Brightbean",
+      "title": "Human Resources Assistant III",
+      "salary_gross": 6144,
+      "tax_percent": 32,
+      "currency": "PHP",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "c234beae-a5d7-40f8-bd43-0f1e6ebadaf5",
+      "employer": "Gabtune",
+      "title": "Research Nurse",
+      "salary_gross": 6669,
+      "tax_percent": 31,
+      "currency": "UAH",
+      "years_of_experience_required": 5
+    },
+    {
+      "id": "038cb3ba-5a9d-49f7-a8bd-21bc5d7f0f17",
+      "employer": "Flipopia",
+      "title": "Geologist III",
+      "salary_gross": 5687,
+      "tax_percent": 35,
+      "currency": "EUR",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "7e5bf02f-e5bc-4048-8195-e06a159af884",
+      "employer": "Zooxo",
+      "title": "Occupational Therapist",
+      "salary_gross": 5461,
+      "tax_percent": 39,
+      "currency": "PHP",
+      "years_of_experience_required": 12
+    },
+    {
+      "id": "9fafdb2b-f3af-4d63-b9a1-a9918029852e",
+      "employer": "Devcast",
+      "title": "Account Coordinator",
+      "salary_gross": 5396,
+      "tax_percent": 38,
+      "currency": "USD",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "24663cf0-c04f-4b5c-83d0-95ebb3994795",
+      "employer": "Babbleopia",
+      "title": "Speech Pathologist",
+      "salary_gross": 5838,
+      "tax_percent": 37,
+      "currency": "EUR",
+      "years_of_experience_required": 12
+    },
+    {
+      "id": "37d46857-59f8-4f5d-b153-6d7d52fc519a",
+      "employer": "Livetube",
+      "title": "Nurse",
+      "salary_gross": 4525,
+      "tax_percent": 33,
+      "currency": "EUR",
+      "years_of_experience_required": 10
+    },
+    {
+      "id": "e3e32e0b-d79d-47b3-9d60-040a6d9cfbf3",
+      "employer": "Roodel",
+      "title": "Systems Administrator II",
+      "salary_gross": 5074,
+      "tax_percent": 38,
+      "currency": "IDR",
+      "years_of_experience_required": 12
+    },
+    {
+      "id": "a1256c48-e756-4c38-aad4-951d136aea19",
+      "employer": "Ainyx",
+      "title": "Health Coach I",
+      "salary_gross": 6715,
+      "tax_percent": 26,
+      "currency": "ILS",
+      "years_of_experience_required": 2
+    },
+    {
+      "id": "574e29ee-d189-4d25-9c54-de4d571743b1",
+      "employer": "Roombo",
+      "title": "Information Systems Manager",
+      "salary_gross": 4909,
+      "tax_percent": 29,
+      "currency": "PEN",
+      "years_of_experience_required": 9
+    },
+    {
+      "id": "e60f57c0-4648-4a88-863d-885c85f6afee",
+      "employer": "Youtags",
+      "title": "Safety Technician III",
+      "salary_gross": 4941,
+      "tax_percent": 28,
+      "currency": "JPY",
+      "years_of_experience_required": 6
+    },
+    {
+      "id": "7c6cbb5a-796a-40d8-bd91-c2c9acdd9abb",
+      "employer": "Realcube",
+      "title": "Nuclear Power Engineer",
+      "salary_gross": 5674,
+      "tax_percent": 26,
+      "currency": "IDR",
+      "years_of_experience_required": 10
+    },
+    {
+      "id": "5bfddb64-652d-4cb0-951c-fd29607764a6",
+      "employer": "Quinu",
+      "title": "Staff Scientist",
+      "salary_gross": 6065,
+      "tax_percent": 35,
+      "currency": "ARS",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "f52548f0-3bd1-4f69-adb9-28a7e290f047",
+      "employer": "Skidoo",
+      "title": "Automation Specialist IV",
+      "salary_gross": 6117,
+      "tax_percent": 34,
+      "currency": "CNY",
+      "years_of_experience_required": 12
+    },
+    {
+      "id": "799f3721-2fec-43e5-a4ae-7ebef70d6841",
+      "employer": "Yadel",
+      "title": "Help Desk Operator",
+      "salary_gross": 6024,
+      "tax_percent": 34,
+      "currency": "USD",
+      "years_of_experience_required": 12
+    },
+    {
+      "id": "dab8831d-66a5-42bd-ba3a-e2f7e96f8aca",
+      "employer": "Voomm",
+      "title": "Assistant Manager",
+      "salary_gross": 6185,
+      "tax_percent": 34,
+      "currency": "EUR",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "83632f24-a47c-4ca3-9492-5dc6644c8c1e",
+      "employer": "Nlounge",
+      "title": "Senior Cost Accountant",
+      "salary_gross": 6932,
+      "tax_percent": 38,
+      "currency": "IDR",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "f9002aa9-0f69-49be-b439-3e59b7895f38",
+      "employer": "Yakitri",
+      "title": "Compensation Analyst",
+      "salary_gross": 6460,
+      "tax_percent": 35,
+      "currency": "IDR",
+      "years_of_experience_required": 4
+    },
+    {
+      "id": "5f1da961-a658-4312-8370-fda2f44d490c",
+      "employer": "Talane",
+      "title": "Database Administrator III",
+      "salary_gross": 5362,
+      "tax_percent": 32,
+      "currency": "ZMW",
+      "years_of_experience_required": 6
+    },
+    {
+      "id": "f94a5a3b-e90a-4157-b328-3c7e08afa69d",
+      "employer": "Flipstorm",
+      "title": "Help Desk Operator",
+      "salary_gross": 6845,
+      "tax_percent": 34,
+      "currency": "CNY",
+      "years_of_experience_required": 10
+    },
+    {
+      "id": "0c070807-34fa-4be3-90ba-933d8430017f",
+      "employer": "Ozu",
+      "title": "Internal Auditor",
+      "salary_gross": 6017,
+      "tax_percent": 36,
+      "currency": "JPY",
+      "years_of_experience_required": 12
+    },
+    {
+      "id": "9c1ee17d-d83b-4d90-bc90-8ebeac612107",
+      "employer": "Twiyo",
+      "title": "Software Consultant",
+      "salary_gross": 4566,
+      "tax_percent": 34,
+      "currency": "LTL",
+      "years_of_experience_required": 6
+    },
+    {
+      "id": "344fc31a-1de9-4fdf-8386-9e595e071ac2",
+      "employer": "Photobug",
+      "title": "Assistant Professor",
+      "salary_gross": 6506,
+      "tax_percent": 26,
+      "currency": "IDR",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "f2227e3f-411e-4173-bc33-400e32a94419",
+      "employer": "Tagopia",
+      "title": "Analog Circuit Design manager",
+      "salary_gross": 5371,
+      "tax_percent": 29,
+      "currency": "AFN",
+      "years_of_experience_required": 4
+    },
+    {
+      "id": "0ac1a3d2-7653-456f-b29e-372358c1eb74",
+      "employer": "Jamia",
+      "title": "Operator",
+      "salary_gross": 4639,
+      "tax_percent": 35,
+      "currency": "EUR",
+      "years_of_experience_required": 10
+    },
+    {
+      "id": "adef6e9f-c784-4a86-950f-ca9baefe22a6",
+      "employer": "Jabbersphere",
+      "title": "Nurse Practicioner",
+      "salary_gross": 6010,
+      "tax_percent": 34,
+      "currency": "PHP",
+      "years_of_experience_required": 12
+    },
+    {
+      "id": "5dde1404-e713-4b7e-bd61-d1406d8d916c",
+      "employer": "Yadel",
+      "title": "Account Representative III",
+      "salary_gross": 6957,
+      "tax_percent": 39,
+      "currency": "VND",
+      "years_of_experience_required": 3
+    },
+    {
+      "id": "7d7ff6b1-dd38-44e7-8e57-1bbb207b5b17",
+      "employer": "Linktype",
+      "title": "Human Resources Assistant III",
+      "salary_gross": 5785,
+      "tax_percent": 32,
+      "currency": "EUR",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "a926466b-1ecb-45c7-951e-76c0036634a2",
+      "employer": "Zava",
+      "title": "Financial Analyst",
+      "salary_gross": 5020,
+      "tax_percent": 31,
+      "currency": "IDR",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "d44212c6-2e00-4e0d-bf4e-286a44c5b2bf",
+      "employer": "Teklist",
+      "title": "Clinical Specialist",
+      "salary_gross": 4501,
+      "tax_percent": 38,
+      "currency": "IDR",
+      "years_of_experience_required": 2
+    },
+    {
+      "id": "63288694-a2c1-4a59-862d-b10d75dfd6d2",
+      "employer": "Topiclounge",
+      "title": "Help Desk Technician",
+      "salary_gross": 5961,
+      "tax_percent": 30,
+      "currency": "IDR",
+      "years_of_experience_required": 10
+    },
+    {
+      "id": "37dfd5a9-e43f-4241-9766-aeb8ac1b49b2",
+      "employer": "Vinder",
+      "title": "Web Designer I",
+      "salary_gross": 4869,
+      "tax_percent": 27,
+      "currency": "CAD",
+      "years_of_experience_required": 2
+    },
+    {
+      "id": "56c175f6-6a9f-45cd-8877-de76c22c7026",
+      "employer": "Feedbug",
+      "title": "Compensation Analyst",
+      "salary_gross": 5588,
+      "tax_percent": 31,
+      "currency": "EUR",
+      "years_of_experience_required": 10
+    },
+    {
+      "id": "a1411874-7eea-486e-95d2-8412e994d767",
+      "employer": "Jamia",
+      "title": "Senior Financial Analyst",
+      "salary_gross": 6707,
+      "tax_percent": 28,
+      "currency": "HTG",
+      "years_of_experience_required": 5
+    },
+    {
+      "id": "5cafcf41-3a46-447e-97e9-50c458bcb9cc",
+      "employer": "Edgepulse",
+      "title": "Structural Analysis Engineer",
+      "salary_gross": 6019,
+      "tax_percent": 35,
+      "currency": "EUR",
+      "years_of_experience_required": 4
+    },
+    {
+      "id": "860ad690-e4ca-4635-a990-7d5e80838107",
+      "employer": "Devcast",
+      "title": "Senior Editor",
+      "salary_gross": 5023,
+      "tax_percent": 26,
+      "currency": "COP",
+      "years_of_experience_required": 9
+    },
+    {
+      "id": "7138eb55-31f4-42f5-b5f2-4d6e49254c57",
+      "employer": "Minyx",
+      "title": "Senior Cost Accountant",
+      "salary_gross": 5833,
+      "tax_percent": 34,
+      "currency": "SEK",
+      "years_of_experience_required": 4
+    },
+    {
+      "id": "4bbb7b33-1ac3-4fdf-9646-1e02ca885612",
+      "employer": "Chatterbridge",
+      "title": "Research Nurse",
+      "salary_gross": 5109,
+      "tax_percent": 33,
+      "currency": "PHP",
+      "years_of_experience_required": 6
+    },
+    {
+      "id": "d69939be-d0ea-4dd4-93d5-38e974f72025",
+      "employer": "Realbridge",
+      "title": "Teacher",
+      "salary_gross": 6316,
+      "tax_percent": 30,
+      "currency": "IDR",
+      "years_of_experience_required": 5
+    },
+    {
+      "id": "078f4c31-a42e-4cb2-85a7-7d67304109be",
+      "employer": "Eamia",
+      "title": "Automation Specialist II",
+      "salary_gross": 4998,
+      "tax_percent": 26,
+      "currency": "CNY",
+      "years_of_experience_required": 9
+    },
+    {
+      "id": "0e00f408-d07e-4fbd-8cb3-68195aaaf20f",
+      "employer": "Browsedrive",
+      "title": "Structural Engineer",
+      "salary_gross": 5600,
+      "tax_percent": 30,
+      "currency": "PLN",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "9cf768fa-6f80-43b2-8a13-5dc5b5ca51ab",
+      "employer": "Mudo",
+      "title": "Safety Technician II",
+      "salary_gross": 6814,
+      "tax_percent": 35,
+      "currency": "KHR",
+      "years_of_experience_required": 5
+    },
+    {
+      "id": "14ce710c-ea3e-40e0-a9cb-d0d749fd8fbe",
+      "employer": "Tagfeed",
+      "title": "Project Manager",
+      "salary_gross": 6399,
+      "tax_percent": 40,
+      "currency": "PLN",
+      "years_of_experience_required": 2
+    },
+    {
+      "id": "fcad5fe4-2f59-4094-af7a-3eccbdc4fa48",
+      "employer": "Jetwire",
+      "title": "GIS Technical Architect",
+      "salary_gross": 6932,
+      "tax_percent": 38,
+      "currency": "CZK",
+      "years_of_experience_required": 3
+    },
+    {
+      "id": "4e41aa15-c83d-475e-bf84-658078c8ff50",
+      "employer": "Blogtag",
+      "title": "Occupational Therapist",
+      "salary_gross": 6594,
+      "tax_percent": 35,
+      "currency": "IDR",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "75845ca7-869e-483c-91ef-c9694454c9dc",
+      "employer": "Roodel",
+      "title": "Community Outreach Specialist",
+      "salary_gross": 6597,
+      "tax_percent": 40,
+      "currency": "PKR",
+      "years_of_experience_required": 4
+    },
+    {
+      "id": "78125ddb-fd1b-4fcf-a946-31e06b3a447c",
+      "employer": "Babbleblab",
+      "title": "Sales Associate",
+      "salary_gross": 5627,
+      "tax_percent": 40,
+      "currency": "EUR",
+      "years_of_experience_required": 10
+    },
+    {
+      "id": "49cde1ae-ea7b-46b4-832b-778513789d21",
+      "employer": "Shufflester",
+      "title": "Statistician IV",
+      "salary_gross": 5310,
+      "tax_percent": 37,
+      "currency": "DOP",
+      "years_of_experience_required": 2
+    },
+    {
+      "id": "20535762-0473-4c88-8f7d-ace306670bc8",
+      "employer": "Oyonder",
+      "title": "Marketing Manager",
+      "salary_gross": 6598,
+      "tax_percent": 27,
+      "currency": "PKR",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "7883427b-d635-4eaf-860f-e6b4a1a728cb",
+      "employer": "Gigabox",
+      "title": "Senior Financial Analyst",
+      "salary_gross": 5305,
+      "tax_percent": 30,
+      "currency": "XAF",
+      "years_of_experience_required": 12
+    },
+    {
+      "id": "48caed8a-1947-4198-9a95-f73dab67e588",
+      "employer": "Linktype",
+      "title": "Engineer IV",
+      "salary_gross": 5053,
+      "tax_percent": 39,
+      "currency": "COP",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "6ee41455-9d42-4e6b-85f3-70eb7016c7e2",
+      "employer": "Jatri",
+      "title": "Compensation Analyst",
+      "salary_gross": 5737,
+      "tax_percent": 40,
+      "currency": "KES",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "00be3e40-8106-495e-9161-6a6c74d9df70",
+      "employer": "Zava",
+      "title": "Geologist I",
+      "salary_gross": 6816,
+      "tax_percent": 39,
+      "currency": "IDR",
+      "years_of_experience_required": 2
+    },
+    {
+      "id": "f69ae586-7818-4bb1-81d8-a1c4ef9ff738",
+      "employer": "Digitube",
+      "title": "Pharmacist",
+      "salary_gross": 4861,
+      "tax_percent": 38,
+      "currency": "NPR",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "c9dac7c0-c164-4259-9823-093308d961c7",
+      "employer": "Skaboo",
+      "title": "Web Designer I",
+      "salary_gross": 4890,
+      "tax_percent": 38,
+      "currency": "ZWL",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "3c550c97-5cbb-495d-8c0d-4a6bd589df19",
+      "employer": "Photobug",
+      "title": "Compensation Analyst",
+      "salary_gross": 4890,
+      "tax_percent": 27,
+      "currency": "PLN",
+      "years_of_experience_required": 5
+    },
+    {
+      "id": "809720ea-457a-42be-bdd0-1247fbfc98a2",
+      "employer": "Photobug",
+      "title": "Product Engineer",
+      "salary_gross": 5266,
+      "tax_percent": 39,
+      "currency": "CNY",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "d28169ad-c258-476e-baaf-58a8aa667ac7",
+      "employer": "Brightbean",
+      "title": "Environmental Specialist",
+      "salary_gross": 4703,
+      "tax_percent": 32,
+      "currency": "NOK",
+      "years_of_experience_required": 3
+    },
+    {
+      "id": "96f55043-b1ac-4934-9bf5-55ec85e26f4d",
+      "employer": "Vipe",
+      "title": "Senior Editor",
+      "salary_gross": 5473,
+      "tax_percent": 34,
+      "currency": "PLN",
+      "years_of_experience_required": 2
+    },
+    {
+      "id": "7b8e3a20-d913-4286-8bb6-6ca2152afde5",
+      "employer": "Jabberbean",
+      "title": "Senior Cost Accountant",
+      "salary_gross": 5085,
+      "tax_percent": 40,
+      "currency": "THB",
+      "years_of_experience_required": 5
+    },
+    {
+      "id": "31d1c02c-b727-4c26-a4f1-ec38273f39b2",
+      "employer": "Topdrive",
+      "title": "Social Worker",
+      "salary_gross": 6328,
+      "tax_percent": 35,
+      "currency": "RUB",
+      "years_of_experience_required": 2
+    },
+    {
+      "id": "16d414df-d33a-49d3-b8e3-a1ca66f160bb",
+      "employer": "Yata",
+      "title": "Account Executive",
+      "salary_gross": 5194,
+      "tax_percent": 35,
+      "currency": "JPY",
+      "years_of_experience_required": 6
+    },
+    {
+      "id": "eee03008-468a-471c-8ded-0da18409cf55",
+      "employer": "Thoughtbeat",
+      "title": "Junior Executive",
+      "salary_gross": 6145,
+      "tax_percent": 26,
+      "currency": "RUB",
+      "years_of_experience_required": 6
+    },
+    {
+      "id": "c1baf7ab-60af-41b5-91cf-59bd7bd90cb7",
+      "employer": "Bubblemix",
+      "title": "Software Engineer II",
+      "salary_gross": 4537,
+      "tax_percent": 36,
+      "currency": "MYR",
+      "years_of_experience_required": 10
+    },
+    {
+      "id": "50bc0ef0-d0e8-4c50-80b8-7df60603f9ac",
+      "employer": "Zazio",
+      "title": "Occupational Therapist",
+      "salary_gross": 6655,
+      "tax_percent": 32,
+      "currency": "CZK",
+      "years_of_experience_required": 9
+    },
+    {
+      "id": "065a50ca-29c7-4bed-b86f-f76b845735be",
+      "employer": "Vinte",
+      "title": "Geological Engineer",
+      "salary_gross": 4705,
+      "tax_percent": 30,
+      "currency": "SEK",
+      "years_of_experience_required": 3
+    },
+    {
+      "id": "bff9c3ff-484f-4a20-949d-d482f65a784f",
+      "employer": "Twitterwire",
+      "title": "Financial Advisor",
+      "salary_gross": 5548,
+      "tax_percent": 33,
+      "currency": "KRW",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "812aeaa2-5c22-45c3-be8a-63ce797d63e7",
+      "employer": "Twinte",
+      "title": "Librarian",
+      "salary_gross": 5137,
+      "tax_percent": 38,
+      "currency": "PHP",
+      "years_of_experience_required": 10
+    },
+    {
+      "id": "1f47c965-b2d3-4827-98f7-664baca99281",
+      "employer": "Wordware",
+      "title": "GIS Technical Architect",
+      "salary_gross": 4971,
+      "tax_percent": 38,
+      "currency": "CNY",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "5b6c9916-3bb9-45da-8725-d8e3f97fad69",
+      "employer": "Chatterpoint",
+      "title": "Clinical Specialist",
+      "salary_gross": 4968,
+      "tax_percent": 40,
+      "currency": "EUR",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "73b457f9-49b4-48de-9f47-6c992e43f839",
+      "employer": "Mita",
+      "title": "Junior Executive",
+      "salary_gross": 5656,
+      "tax_percent": 26,
+      "currency": "SEK",
+      "years_of_experience_required": 6
+    },
+    {
+      "id": "ed854cbe-43f0-4414-b0ce-cba725cc0a21",
+      "employer": "Rhyloo",
+      "title": "Geologist II",
+      "salary_gross": 6921,
+      "tax_percent": 30,
+      "currency": "EGP",
+      "years_of_experience_required": 6
+    },
+    {
+      "id": "4b8183c0-ad6d-4d35-b4c8-65ce60b674c2",
+      "employer": "Devpoint",
+      "title": "Quality Control Specialist",
+      "salary_gross": 6948,
+      "tax_percent": 26,
+      "currency": "CZK",
+      "years_of_experience_required": 6
+    },
+    {
+      "id": "2d54e690-5c9d-48a0-b9c0-7ea9b9c24a81",
+      "employer": "Blogspan",
+      "title": "Desktop Support Technician",
+      "salary_gross": 4962,
+      "tax_percent": 40,
+      "currency": "CNY",
+      "years_of_experience_required": 6
+    },
+    {
+      "id": "e41acf5c-6520-4301-ad7e-d27f0152f7d2",
+      "employer": "Devcast",
+      "title": "Environmental Specialist",
+      "salary_gross": 6728,
+      "tax_percent": 32,
+      "currency": "RUB",
+      "years_of_experience_required": 10
+    },
+    {
+      "id": "cfea87d6-c1eb-48dd-bc83-1f60bc9189d6",
+      "employer": "Mycat",
+      "title": "Health Coach III",
+      "salary_gross": 4676,
+      "tax_percent": 38,
+      "currency": "RUB",
+      "years_of_experience_required": 9
+    },
+    {
+      "id": "2ef5a796-1113-433d-8fa6-ec81d66ed85e",
+      "employer": "Thoughtstorm",
+      "title": "Structural Engineer",
+      "salary_gross": 4670,
+      "tax_percent": 30,
+      "currency": "PHP",
+      "years_of_experience_required": 3
+    },
+    {
+      "id": "9d695690-76f9-4e12-b09c-e62b7828fd4a",
+      "employer": "Dynabox",
+      "title": "Sales Representative",
+      "salary_gross": 4603,
+      "tax_percent": 38,
+      "currency": "CZK",
+      "years_of_experience_required": 5
+    },
+    {
+      "id": "29642465-b4dc-4980-a882-c8310ad93479",
+      "employer": "Skippad",
+      "title": "Environmental Tech",
+      "salary_gross": 5603,
+      "tax_percent": 25,
+      "currency": "BRL",
+      "years_of_experience_required": 4
+    },
+    {
+      "id": "52deb3d3-7e05-44fe-b15f-a3dc6e621e5d",
+      "employer": "Rooxo",
+      "title": "Human Resources Manager",
+      "salary_gross": 4908,
+      "tax_percent": 40,
+      "currency": "EUR",
+      "years_of_experience_required": 12
+    },
+    {
+      "id": "88befea4-724d-4259-b7b7-7ffc472677df",
+      "employer": "Dynazzy",
+      "title": "VP Quality Control",
+      "salary_gross": 6592,
+      "tax_percent": 38,
+      "currency": "IDR",
+      "years_of_experience_required": 12
+    },
+    {
+      "id": "09d9377d-a6c2-40c6-a1f6-c8b288bfa6b6",
+      "employer": "Skyndu",
+      "title": "Teacher",
+      "salary_gross": 5052,
+      "tax_percent": 28,
+      "currency": "EUR",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "7b4e9bf4-8980-4d6b-ba27-4e309d5645c9",
+      "employer": "Blogtag",
+      "title": "Senior Editor",
+      "salary_gross": 5205,
+      "tax_percent": 40,
+      "currency": "EUR",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "75eee9bd-913e-454f-b4f6-4be71525f98c",
+      "employer": "Eare",
+      "title": "Civil Engineer",
+      "salary_gross": 6965,
+      "tax_percent": 34,
+      "currency": "COP",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "37046404-c8c2-43be-8de3-55f832a7d5d7",
+      "employer": "Zoombox",
+      "title": "Desktop Support Technician",
+      "salary_gross": 5664,
+      "tax_percent": 39,
+      "currency": "CNY",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "371faeed-d8a1-452b-acfc-e9f5024f3a8e",
+      "employer": "DabZ",
+      "title": "Computer Systems Analyst III",
+      "salary_gross": 5513,
+      "tax_percent": 35,
+      "currency": "EUR",
+      "years_of_experience_required": 10
+    },
+    {
+      "id": "1d283e08-bbff-4fc6-8c45-f79cdd6aa810",
+      "employer": "Kwilith",
+      "title": "Senior Developer",
+      "salary_gross": 5236,
+      "tax_percent": 33,
+      "currency": "PKR",
+      "years_of_experience_required": 9
+    },
+    {
+      "id": "f2649cd3-c8f2-40ad-997c-94df262b4836",
+      "employer": "Dynabox",
+      "title": "Assistant Media Planner",
+      "salary_gross": 6866,
+      "tax_percent": 28,
+      "currency": "BYR",
+      "years_of_experience_required": 3
+    },
+    {
+      "id": "a62c8917-ba19-4cf8-aadd-03d7981708f6",
+      "employer": "Fanoodle",
+      "title": "Software Test Engineer II",
+      "salary_gross": 6517,
+      "tax_percent": 29,
+      "currency": "IDR",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "52df8523-df07-42a4-807e-37da0cc53630",
+      "employer": "Wordware",
+      "title": "Geologist II",
+      "salary_gross": 5536,
+      "tax_percent": 37,
+      "currency": "RUB",
+      "years_of_experience_required": 10
+    },
+    {
+      "id": "ebb7e7be-8454-4faa-b6a2-089ca8e140e7",
+      "employer": "Brightdog",
+      "title": "Safety Technician II",
+      "salary_gross": 4912,
+      "tax_percent": 31,
+      "currency": "EUR",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "549c0b2e-6628-4763-b758-ea90c3af1ef0",
+      "employer": "Feedfire",
+      "title": "Assistant Manager",
+      "salary_gross": 4638,
+      "tax_percent": 31,
+      "currency": "CNY",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "97e52cfc-af7f-4507-987c-6750601663bd",
+      "employer": "Aimbu",
+      "title": "Director of Sales",
+      "salary_gross": 5967,
+      "tax_percent": 34,
+      "currency": "MNT",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "b5d8d2ab-b612-49fe-9581-e6b85417d2bf",
+      "employer": "Photojam",
+      "title": "Web Developer IV",
+      "salary_gross": 5858,
+      "tax_percent": 25,
+      "currency": "HNL",
+      "years_of_experience_required": 10
+    },
+    {
+      "id": "a5d45b3f-de61-43d0-8312-fcfd2c9e6d27",
+      "employer": "Jabbercube",
+      "title": "Technical Writer",
+      "salary_gross": 6313,
+      "tax_percent": 27,
+      "currency": "ARS",
+      "years_of_experience_required": 6
+    },
+    {
+      "id": "d2a352fe-7552-4bd6-8c2b-43d325c6b9e4",
+      "employer": "Meembee",
+      "title": "Budget/Accounting Analyst IV",
+      "salary_gross": 5799,
+      "tax_percent": 28,
+      "currency": "EUR",
+      "years_of_experience_required": 12
+    },
+    {
+      "id": "ed0e071d-3d8e-4d12-a893-3b7fb4a924b6",
+      "employer": "Twitterbeat",
+      "title": "Information Systems Manager",
+      "salary_gross": 6337,
+      "tax_percent": 28,
+      "currency": "CZK",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "db647b9c-c73e-4b4b-a94b-b446396e94fd",
+      "employer": "Livetube",
+      "title": "Actuary",
+      "salary_gross": 4647,
+      "tax_percent": 36,
+      "currency": "BRL",
+      "years_of_experience_required": 4
+    },
+    {
+      "id": "2dc6bca2-8735-4cda-bd82-650da93568d7",
+      "employer": "Yakidoo",
+      "title": "Community Outreach Specialist",
+      "salary_gross": 5913,
+      "tax_percent": 34,
+      "currency": "UAH",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "7f1fe607-2388-4284-9124-17f81f9b128c",
+      "employer": "Digitube",
+      "title": "Director of Sales",
+      "salary_gross": 6526,
+      "tax_percent": 33,
+      "currency": "HNL",
+      "years_of_experience_required": 4
+    },
+    {
+      "id": "3dca9da8-7d18-47cd-8dbb-dfcee9937d83",
+      "employer": "Browseblab",
+      "title": "Developer IV",
+      "salary_gross": 6176,
+      "tax_percent": 28,
+      "currency": "CNY",
+      "years_of_experience_required": 10
+    },
+    {
+      "id": "1dc04213-7158-41a7-9323-d372309a5976",
+      "employer": "Brightdog",
+      "title": "Senior Quality Engineer",
+      "salary_gross": 5429,
+      "tax_percent": 27,
+      "currency": "MXN",
+      "years_of_experience_required": 12
+    },
+    {
+      "id": "fd61a74c-9c16-4fdb-bed3-e9c8ff839ff8",
+      "employer": "Brightdog",
+      "title": "Business Systems Development Analyst",
+      "salary_gross": 6436,
+      "tax_percent": 37,
+      "currency": "EGP",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "a0ec8d2f-036a-4b6d-85bd-3260990a723b",
+      "employer": "Devpulse",
+      "title": "Graphic Designer",
+      "salary_gross": 5499,
+      "tax_percent": 25,
+      "currency": "CNY",
+      "years_of_experience_required": 3
+    },
+    {
+      "id": "82f048f4-c212-48f0-a0b3-ff0b905354df",
+      "employer": "Rhynyx",
+      "title": "Account Executive",
+      "salary_gross": 5247,
+      "tax_percent": 32,
+      "currency": "BRL",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "406dcd0c-6c80-48a6-9bb3-faa3cd1c5c7f",
+      "employer": "Blogtags",
+      "title": "Environmental Tech",
+      "salary_gross": 4543,
+      "tax_percent": 29,
+      "currency": "RUB",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "c1ed0f6a-fc42-44e1-998f-11f69b65223d",
+      "employer": "Fanoodle",
+      "title": "Physical Therapy Assistant",
+      "salary_gross": 6760,
+      "tax_percent": 31,
+      "currency": "THB",
+      "years_of_experience_required": 4
+    },
+    {
+      "id": "b5fe2074-4f90-4331-af05-a4b7b18d50b2",
+      "employer": "Fanoodle",
+      "title": "Occupational Therapist",
+      "salary_gross": 5344,
+      "tax_percent": 30,
+      "currency": "PHP",
+      "years_of_experience_required": 4
+    },
+    {
+      "id": "a768f978-3cf5-49cf-9e3a-4898b9e533aa",
+      "employer": "Feedmix",
+      "title": "Human Resources Assistant I",
+      "salary_gross": 4705,
+      "tax_percent": 39,
+      "currency": "IDR",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "1cf87185-a934-4ba5-b641-5a7a558d49ee",
+      "employer": "Omba",
+      "title": "Software Consultant",
+      "salary_gross": 6698,
+      "tax_percent": 28,
+      "currency": "GBP",
+      "years_of_experience_required": 9
+    },
+    {
+      "id": "28a64d35-85e4-4276-a204-a51bd02e71a4",
+      "employer": "Dynava",
+      "title": "Actuary",
+      "salary_gross": 6275,
+      "tax_percent": 38,
+      "currency": "CNY",
+      "years_of_experience_required": 12
+    },
+    {
+      "id": "efc8090d-7d75-4101-8a2e-1105bdfdf7ba",
+      "employer": "Twitterbeat",
+      "title": "Analog Circuit Design manager",
+      "salary_gross": 5095,
+      "tax_percent": 35,
+      "currency": "CNY",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "917ae9e4-2b94-4365-a7e8-e435ab926f4b",
+      "employer": "Jabbercube",
+      "title": "VP Sales",
+      "salary_gross": 5239,
+      "tax_percent": 28,
+      "currency": "CNY",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "aae6b64a-7690-4be1-a4e6-da0f161e462a",
+      "employer": "Ozu",
+      "title": "Design Engineer",
+      "salary_gross": 5255,
+      "tax_percent": 34,
+      "currency": "IDR",
+      "years_of_experience_required": 10
+    },
+    {
+      "id": "6e1a5f4f-f075-4abd-98da-49017f9d99be",
+      "employer": "Oba",
+      "title": "Paralegal",
+      "salary_gross": 5459,
+      "tax_percent": 27,
+      "currency": "AZN",
+      "years_of_experience_required": 6
+    },
+    {
+      "id": "304fde08-5176-4a21-9aa2-e86815e50a6d",
+      "employer": "Feedmix",
+      "title": "Speech Pathologist",
+      "salary_gross": 6570,
+      "tax_percent": 38,
+      "currency": "PLN",
+      "years_of_experience_required": 9
+    },
+    {
+      "id": "65e8cfc2-4c82-4e84-932a-4f9d97d3f621",
+      "employer": "InnoZ",
+      "title": "Editor",
+      "salary_gross": 6383,
+      "tax_percent": 25,
+      "currency": "BDT",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "f37257c5-fa73-4169-b4cb-19c9d08b53cb",
+      "employer": "Photobean",
+      "title": "Pharmacist",
+      "salary_gross": 6019,
+      "tax_percent": 38,
+      "currency": "IDR",
+      "years_of_experience_required": 8
+    },
+    {
+      "id": "a2fa30d9-61ad-4316-a485-26bb7db06a2b",
+      "employer": "Katz",
+      "title": "VP Sales",
+      "salary_gross": 6840,
+      "tax_percent": 39,
+      "currency": "IDR",
+      "years_of_experience_required": 5
+    },
+    {
+      "id": "4f5b2421-f2f1-4d51-9bd6-b9d08ffc1667",
+      "employer": "Skidoo",
+      "title": "Software Test Engineer IV",
+      "salary_gross": 5060,
+      "tax_percent": 28,
+      "currency": "BRL",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "1ff9b23a-d95f-4d2e-8146-c88a7073e0c9",
+      "employer": "Bubblemix",
+      "title": "Office Assistant II",
+      "salary_gross": 5051,
+      "tax_percent": 39,
+      "currency": "ZAR",
+      "years_of_experience_required": 9
+    },
+    {
+      "id": "5fbcf2ad-7e0e-43cf-a197-8eb64f66c808",
+      "employer": "Yata",
+      "title": "Web Developer IV",
+      "salary_gross": 6962,
+      "tax_percent": 36,
+      "currency": "CNY",
+      "years_of_experience_required": 6
+    },
+    {
+      "id": "fe91c859-1ced-4af5-b054-92e9258ce287",
+      "employer": "Voolith",
+      "title": "Associate Professor",
+      "salary_gross": 4541,
+      "tax_percent": 36,
+      "currency": "IDR",
+      "years_of_experience_required": 12
+    },
+    {
+      "id": "138c2dfd-be18-460e-9bc7-a9aab182d2bd",
+      "employer": "Quamba",
+      "title": "Sales Associate",
+      "salary_gross": 5324,
+      "tax_percent": 34,
+      "currency": "AUD",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "055beca4-c86a-4129-8ce8-7c3f34911d17",
+      "employer": "Zooxo",
+      "title": "Administrative Officer",
+      "salary_gross": 4846,
+      "tax_percent": 34,
+      "currency": "CNY",
+      "years_of_experience_required": 11
+    },
+    {
+      "id": "f96ccf47-9737-4f66-82a9-6444b1b28ef6",
+      "employer": "Browsezoom",
+      "title": "Internal Auditor",
+      "salary_gross": 6099,
+      "tax_percent": 39,
+      "currency": "PEN",
+      "years_of_experience_required": 3
+    },
+    {
+      "id": "83e8f868-b210-4050-835b-ff7efe979e27",
+      "employer": "Shufflester",
+      "title": "Payment Adjustment Coordinator",
+      "salary_gross": 4547,
+      "tax_percent": 30,
+      "currency": "PHP",
+      "years_of_experience_required": 9
+    },
+    {
+      "id": "6907dd3f-9869-45fb-8003-e3d61e216b37",
+      "employer": "Zoomdog",
+      "title": "Quality Control Specialist",
+      "salary_gross": 6812,
+      "tax_percent": 33,
+      "currency": "PHP",
+      "years_of_experience_required": 7
+    },
+    {
+      "id": "2994f2fd-fd46-4af0-a84e-92a1bbf2379b",
+      "employer": "Dynabox",
+      "title": "Developer II",
+      "salary_gross": 4638,
+      "tax_percent": 28,
+      "currency": "EUR",
+      "years_of_experience_required": 3
+    },
+    {
+      "id": "23853db8-6e96-43e2-9fba-3ad8558d8e4d",
+      "employer": "Aibox",
+      "title": "Assistant Professor",
+      "salary_gross": 5497,
+      "tax_percent": 38,
+      "currency": "CZK",
+      "years_of_experience_required": 5
+    },
+    {
+      "id": "dfb7b6b5-a2ec-4041-b48b-b38c125bb927",
+      "employer": "Jetwire",
+      "title": "Budget/Accounting Analyst I",
+      "salary_gross": 6818,
+      "tax_percent": 30,
+      "currency": "XAF",
+      "years_of_experience_required": 8
+    }
+  ]
+}
